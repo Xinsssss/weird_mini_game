@@ -1,0 +1,10 @@
+# Constants
+WIDTH = 1280
+HEIGHT = 720
+FPS = 60
+TILESIZE = 64
+FARMER_SIZE = 16
+FARMER_SPEED = 5
+
+# Colours
+WHITE = (255, 255, 255)
